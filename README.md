@@ -62,8 +62,13 @@ This repository has been strictly sanitized:
     *Note: The app runs in "Mock Mode". Login works with any credentials, and scanning simulates a result.*
 
 ## 📸 Screenshots
+![subscription screen](https://github.com/user-attachments/assets/980540fa-456c-432c-a476-93144b5a5727)
+![result screen](https://github.com/user-attachments/assets/5e48db4d-363c-4965-9bdf-d7ff7bc40780)
+![Improvemnet tab](https://github.com/user-attachments/assets/41912fab-6c73-418a-98e0-1bfa1b82aa02)
+![Homescreen](https://github.com/user-attachments/assets/44dfc796-b521-4a21-8c16-bab0fce9217e)
+![consistency tab](https://github.com/user-attachments/assets/6fa0d567-766c-44e4-bc32-9f7c8c4d9b90)
 
-*(Placeholder for screenshots of the Welcome Screen, Home Screen, and Analysis Results)*
+**
 
 ---
 *Developed by Sajjad. Contact for full implementation details.*
