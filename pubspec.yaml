@@ -1,0 +1,44 @@
+name: facera_showcase
+description: "A public showcase of the Facera AI Flutter architecture."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI & Utilities
+  cupertino_icons: ^1.0.8
+  google_fonts: ^7.1.0
+  flutter_animate: ^4.5.2
+  flutter_svg: ^2.2.3
+  intl: ^0.20.2
+  shared_preferences: ^2.5.4
+  image_picker: ^1.2.1
+  url_launcher: ^6.3.2
+  path_provider: ^2.1.5
+  
+  # Keeping these if they are deeply integrated into UI components, 
+  # but ignoring their functional backend aspect.
+  image: ^4.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.3
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    # - assets/images/model.png # Will need to check if we copy assets
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/finallogo.jpg" # Need to check if this asset exists or replace
